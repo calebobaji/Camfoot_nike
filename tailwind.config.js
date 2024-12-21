@@ -27,9 +27,9 @@ export default {
         "slate-gray": "#1a1a1a",
         "pale-blue": "#F5F6FF",
         "dull-yellow": "#e6d046",
-        "muted-blue": "005393",
+        "muted-blue": "#005393",
         "warm-look": "#d4edda0",
-        "off-white": "f5f5f5",
+        "off-white": "#f5f5f5",
         "white-400": "rgba(255, 255, 255, 0.80)"
       },
       boxShadow: {

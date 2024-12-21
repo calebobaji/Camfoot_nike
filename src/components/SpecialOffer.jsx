@@ -32,12 +32,11 @@ const SpecialOffer = () => {
         </p>
         <div className='mt-11 flex flex-wrap gap-4'>
           <Buttons label='Shop now' iconURL={arrowRight} />
-          <Buttons
-            label='Learn more'
-            backgroundColor='bg-white'
-            borderColor='border-slate-gray'
-            textColor='text-slate-gray'
-          />
+          <button className="flex justify-center items-center
+            gap-2 px-7 py-4 border text-muted-blue border-dull-yellow font-montserrat text-lg leading-none
+          rounded-full hover:scale-110">
+            Learn More
+          </button>
         </div>
       </div>
     </section>

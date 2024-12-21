@@ -4,6 +4,7 @@ import Featured from "./components/Featured.jsx";
 import Limited from "./components/Limited.jsx";
 import Services from "./components/Services.jsx";
 import SpecialOffer from "./components/SpecialOffer.jsx";
+import Reviews from "./components/Reviews.jsx";
 // import Reviews from "./components/Reviews.jsx";
 // import Footer from "./components/Footer.jsx";
 const App = () => {
@@ -15,6 +16,7 @@ const App = () => {
     <Limited/>
     <Services/>
     <SpecialOffer/>
+    <Reviews/>
     </>
   )
 }
