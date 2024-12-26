@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 
-import Button from "./Buttons.jsx" 
+import Button from "../components/Buttons.jsx" 
 import arrowRight from "../assets/icons/arrow-right.svg"
 import bigshoe1 from "../assets/images/big-shoe1.png"
 import bigshoe2 from "../assets/images/big-shoe2.png"

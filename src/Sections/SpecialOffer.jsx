@@ -1,7 +1,7 @@
 
 import arrowRight from "../assets/icons/arrow-right.svg";
 import offer from "../assets/images/offer.svg";
-import Buttons from "./Buttons";
+import Buttons from "../components/Buttons";
 
 const SpecialOffer = () => {
   return (

@@ -1,4 +1,4 @@
-import Buttons from "./Buttons"
+import Buttons from "../components/Buttons"
 import shoe8 from "../assets/images/shoe8.svg"
 import arrowRight from "../assets/icons/arrow-right.svg"
 
